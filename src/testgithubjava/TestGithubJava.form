@@ -46,7 +46,7 @@
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Segoe UI" size="24" style="1"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="Test Github Java Project (pushed 2)"/>
+        <Property name="text" type="java.lang.String" value="Test Github Java Project (pushed 3)"/>
       </Properties>
     </Component>
   </SubComponents>
